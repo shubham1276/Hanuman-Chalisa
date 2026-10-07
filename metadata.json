@@ -1,0 +1,6 @@
+{
+  "name": "Hanuman Chalisa",
+  "description": "Simple, serene, and devotional Hanuman Chalisa app with large readable text, audio chanting, meanings, and Jaap counter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
